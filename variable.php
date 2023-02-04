@@ -17,4 +17,3 @@
     // for constansts no dollar like in qbasic
     define('PORT',80);
     echo PORT;
-?>
