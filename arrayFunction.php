@@ -6,6 +6,6 @@ $numbersModified=array_map(function ($num){
 },$numbers);
 
 $numberLT5=array_filter($numbers, function($number){
-    return $number<5;
+    return $number>=5;
 });
 
